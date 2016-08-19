@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<shortcuts>
+  <kickboss>
+    <keyboard name="玄毒摧木">
+      <key>1</key>
+      <cd>1350</cd>
+    </keyboard>
+    <keyboard name="瘟神四溢">
+      <key>2</key>
+      <cd>2450</cd>
+    </keyboard>
+    <keyboard name="阴魂出窍">
+      <key>q</key>
+      <cd>1650</cd>
+    </keyboard>
+    <keyboard name="修罗腐骨">
+      <key>f</key>
+      <cd>1250</cd>
+    </keyboard>
+  </kickboss>
+  <xuandu name="叠玄毒">
+    <keyboard>
+      <key>1</key>
+      <cd>8400</cd>
+    </keyboard>
+  </xuandu>
+  <single name="一个按键循环">
+    <keyboard>
+      <key>4</key>
+      <cd>1000</cd>
+    </keyboard>
+  </single>
+  <diy name="多键循环">
+    <keyboard>
+      <key>return</key>
+      <cd>1000</cd>
+    </keyboard>
+    <keyboard>
+      <key>up</key>
+      <cd>1000</cd>
+    </keyboard>
+    <keyboard>
+      <key>return</key>
+      <cd>7000</cd>
+    </keyboard>
+  </diy>
+  <tqkey>
+    <keyboard name="控制弹琴快捷键">
+      <key>4</key>
+      <cd>100</cd>
+    </keyboard>
+  </tqkey>
+  <groupexercise name="团练" key="on">
+    <imgY name="按键最上方y坐标">644</imgY>
+  </groupexercise>
+  <tqpara name="弹琴参数" key="on">
+    <point>
+      <x>1210</x>
+      <y>739</y>
+    </point>
+    <point>
+      <x>1210</x>
+      <y>779</y>
+    </point>
+    <point>
+      <x>1459</x>
+      <y>662</y>
+    </point>
+    <point>
+      <x>1459</x>
+      <y>699</y>
+    </point>
+  </tqpara>
+  <!--tlkeyhash：团练图片hash tqhash：弹琴图片hash-->
+  <imagetokey>
+    <tlkeyhash name="上">
+      <key>w</key>
+      <hash>1111011111100011111000111100000010110000110100001110001111100011</hash>
+    </tlkeyhash>
+    <tlkeyhash name="左">
+      <key>a</key>
+      <hash>1111011111100011111000011101000010001000111000001110001111100011</hash>
+    </tlkeyhash>
+    <tlkeyhash name="下">
+      <key>s</key>
+      <hash>1111011111100011111000011000000010111000111000001110000111100011</hash>
+    </tlkeyhash>
+    <tlkeyhash name="右">
+      <key>d</key>
+      <hash>1110001111100011111100111101000010101000110100001110000111100011</hash>
+    </tlkeyhash>
+    <tlkeyhash name="J">
+      <key>j</key>
+      <hash>1111011111000001100000001011100010111000100000001100000011100001</hash>
+    </tlkeyhash>
+    <tlkeyhash name="K">
+      <key>k</key>
+      <hash>1111000010000010100000001101000011110100110100001001100010000000</hash>
+    </tlkeyhash>
+    <tqkeyhash name="a">
+      <key>a</key>
+      <hash>0000000000000011000011110011111101111111001111110000111100000011</hash>
+    </tqkeyhash>
+    <tqkeyhash name="z">
+      <key>z</key>
+      <hash>0000000000000011010011110100111101111111011101110010011100000000</hash>
+    </tqkeyhash>
+    <tqkeyhash name="s">
+      <key>s</key>
+      <hash>0000000000000100001101110111111101001011011011110010111100000000</hash>
+    </tqkeyhash>
+    <tqkeyhash name="x">
+      <key>x</key>
+      <hash>0000000000000011011001110011111100011111001111110100011100000001</hash>
+    </tqkeyhash>
+    <tqkeyhash name="d">
+      <key>d</key>
+      <hash>0000000000000010011111110100111101001111011001110011111000000000</hash>
+    </tqkeyhash>
+    <tqkeyhash name="c">
+      <key>c</key>
+      <hash>0000000000011100001111110110111101001111011011110010011000000000</hash>
+    </tqkeyhash>
+    <tqkeyhash name="i">
+      <key>i</key>
+      <hash>0000000000000111000011110001111101111111000111110000111100000011</hash>
+    </tqkeyhash>
+    <tqkeyhash name="j">
+      <key>j</key>
+      <hash>0000000000000111000011110000111100111111011111110000111100000000</hash>
+    </tqkeyhash>
+    <tqkeyhash name="o">
+      <key>o</key>
+      <hash>0000000000011100001111100110011101001111011001110011111000011100</hash>
+    </tqkeyhash>
+    <tqkeyhash name="k">
+      <key>k</key>
+      <hash>0000000000000000011111110001111100011111001111110110011100000001</hash>
+    </tqkeyhash>
+    <tqkeyhash name="p">
+      <key>p</key>
+      <hash>0000000000000010011111110111111101001111011010110011101100000000</hash>
+    </tqkeyhash>
+    <tqkeyhash name="l">
+      <key>l</key>
+      <hash>0000000000000111000111110111111100001111000011110000011100000000</hash>
+    </tqkeyhash>
+  </imagetokey>
+  <keytocode name="键盘码转换">
+    <convert>
+      <key>0</key>
+      <inputcode>48</inputcode>
+    </convert>
+    <convert>
+      <key>1</key>
+      <inputcode>49</inputcode>
+    </convert>
+    <convert>
+      <key>2</key>
+      <inputcode>50</inputcode>
+    </convert>
+    <convert>
+      <key>3</key>
+      <inputcode>51</inputcode>
+    </convert>
+    <convert>
+      <key>4</key>
+      <inputcode>52</inputcode>
+    </convert>
+    <convert>
+      <key>5</key>
+      <inputcode>53</inputcode>
+    </convert>
+    <convert>
+      <key>6</key>
+      <inputcode>54</inputcode>
+    </convert>
+    <convert>
+      <key>7</key>
+      <inputcode>55</inputcode>
+    </convert>
+    <convert>
+      <key>8</key>
+      <inputcode>56</inputcode>
+    </convert>
+    <convert>
+      <key>9</key>
+      <inputcode>57</inputcode>
+    </convert>
+    <convert>
+      <key>q</key>
+      <inputcode>81</inputcode>
+    </convert>
+    <convert>
+      <key>w</key>
+      <inputcode>87</inputcode>
+    </convert>
+    <convert>
+      <key>e</key>
+      <inputcode>69</inputcode>
+    </convert>
+    <convert>
+      <key>r</key>
+      <inputcode>82</inputcode>
+    </convert>
+    <convert>
+      <key>a</key>
+      <inputcode>65</inputcode>
+    </convert>
+    <convert>
+      <key>s</key>
+      <inputcode>83</inputcode>
+    </convert>
+    <convert>
+      <key>d</key>
+      <inputcode>68</inputcode>
+    </convert>
+    <convert>
+      <key>f</key>
+      <inputcode>70</inputcode>
+    </convert>
+    <convert>
+      <key>j</key>
+      <inputcode>74</inputcode>
+    </convert>
+    <convert>
+      <key>k</key>
+      <inputcode>75</inputcode>
+    </convert>
+    <convert>
+      <key>return</key>
+      <inputcode>13</inputcode>
+    </convert>
+    <convert>
+      <key>left</key>
+      <inputcode>37</inputcode>
+    </convert>
+    <convert>
+      <key>up</key>
+      <inputcode>38</inputcode>
+    </convert>
+    <convert>
+      <key>right</key>
+      <inputcode>39</inputcode>
+    </convert>
+    <convert>
+      <key>down</key>
+      <inputcode>40</inputcode>
+    </convert>
+    <convert>
+      <key>z</key>
+      <inputcode>90</inputcode>
+    </convert>
+    <convert>
+      <key>x</key>
+      <inputcode>88</inputcode>
+    </convert>
+    <convert>
+      <key>c</key>
+      <inputcode>67</inputcode>
+    </convert>
+    <convert>
+      <key>i</key>
+      <inputcode>73</inputcode>
+    </convert>
+    <convert>
+      <key>o</key>
+      <inputcode>79</inputcode>
+    </convert>
+    <convert>
+      <key>p</key>
+      <inputcode>80</inputcode>
+    </convert>
+    <convert>
+      <key>l</key>
+      <inputcode>76</inputcode>
+    </convert>
+  </keytocode>
+</shortcuts>

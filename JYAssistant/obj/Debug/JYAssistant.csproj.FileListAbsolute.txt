@@ -1,0 +1,9 @@
+E:\document\workspace\visual studio 2015\Projects\JYAssistant\JYAssistant\bin\Debug\JYAssistant.exe.config
+E:\document\workspace\visual studio 2015\Projects\JYAssistant\JYAssistant\bin\Debug\JYAssistant.exe
+E:\document\workspace\visual studio 2015\Projects\JYAssistant\JYAssistant\bin\Debug\JYAssistant.pdb
+E:\document\workspace\visual studio 2015\Projects\JYAssistant\JYAssistant\obj\Debug\JYAssistant.Form1.resources
+E:\document\workspace\visual studio 2015\Projects\JYAssistant\JYAssistant\obj\Debug\JYAssistant.Properties.Resources.resources
+E:\document\workspace\visual studio 2015\Projects\JYAssistant\JYAssistant\obj\Debug\JYAssistant.csproj.GenerateResource.Cache
+E:\document\workspace\visual studio 2015\Projects\JYAssistant\JYAssistant\obj\Debug\JYAssistant.exe
+E:\document\workspace\visual studio 2015\Projects\JYAssistant\JYAssistant\obj\Debug\JYAssistant.pdb
+E:\document\workspace\visual studio 2015\Projects\JYAssistant\JYAssistant\obj\Debug\JYAssistant.csprojResolveAssemblyReference.cache

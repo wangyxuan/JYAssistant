@@ -1,0 +1,20 @@
+E:\document\workspace\visual studio 2015\Projects\JYAssistant\JYAssistant\bin\x64\Debug\JYAssistant.exe.config
+E:\document\workspace\visual studio 2015\Projects\JYAssistant\JYAssistant\bin\x64\Debug\JYAssistant.exe
+E:\document\workspace\visual studio 2015\Projects\JYAssistant\JYAssistant\bin\x64\Debug\JYAssistant.pdb
+E:\document\workspace\visual studio 2015\Projects\JYAssistant\JYAssistant\obj\x64\Debug\JYAssistant.Form1.resources
+E:\document\workspace\visual studio 2015\Projects\JYAssistant\JYAssistant\obj\x64\Debug\JYAssistant.Properties.Resources.resources
+E:\document\workspace\visual studio 2015\Projects\JYAssistant\JYAssistant\obj\x64\Debug\JYAssistant.csproj.GenerateResource.Cache
+E:\document\workspace\visual studio 2015\Projects\JYAssistant\JYAssistant\obj\x64\Debug\JYAssistant.exe
+E:\document\workspace\visual studio 2015\Projects\JYAssistant\JYAssistant\obj\x64\Debug\JYAssistant.pdb
+E:\document\workspace\visual studio 2015\Projects\JYAssistant\JYAssistant\obj\x64\Debug\JYAssistant.csprojResolveAssemblyReference.cache
+E:\document\workspace\visual studio 2015\Projects\JYAssistant\JYAssistant\obj\x64\Debug\JYAssistant.RegionSearch.resources
+E:\src\mine\JYAssistant\JYAssistant\bin\x64\Debug\JYAssistant.exe.config
+E:\src\mine\JYAssistant\JYAssistant\obj\x64\Debug\JYAssistant.exe
+E:\src\mine\JYAssistant\JYAssistant\obj\x64\Debug\JYAssistant.pdb
+E:\src\mine\JYAssistant\JYAssistant\bin\x64\Debug\JYAssistant.exe
+E:\src\mine\JYAssistant\JYAssistant\bin\x64\Debug\JYAssistant.pdb
+E:\src\mine\JYAssistant\JYAssistant\obj\x64\Debug\JYAssistant.csprojResolveAssemblyReference.cache
+E:\src\mine\JYAssistant\JYAssistant\obj\x64\Debug\JYAssistant.Form1.resources
+E:\src\mine\JYAssistant\JYAssistant\obj\x64\Debug\JYAssistant.RegionSearch.resources
+E:\src\mine\JYAssistant\JYAssistant\obj\x64\Debug\JYAssistant.Properties.Resources.resources
+E:\src\mine\JYAssistant\JYAssistant\obj\x64\Debug\JYAssistant.csproj.GenerateResource.Cache
